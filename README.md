@@ -1,1 +1,4 @@
-# Image Stegabography. Sve your data in Imge file 
+# Image Stegabography
+
+Save your data in Image File.
+
