@@ -6,3 +6,5 @@ plimege = np.array(Image.open('index.jpeg'))
 print np.size(plimege)
 #test comment
 
+# test Local commite and Push is working
+
