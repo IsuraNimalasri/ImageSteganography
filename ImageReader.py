@@ -1,8 +1,8 @@
 from PIL import Image
-from numpy import array
+import numpy as np
 
-plimege = array(Image.open('index.jpeg'))
+plimege = np.array(Image.open('index.jpeg'))
 
-print (plimege)
+print np.size(plimege)
 #test comment
 
