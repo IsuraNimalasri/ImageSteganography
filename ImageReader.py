@@ -1,3 +1,7 @@
 from PIL import Image
+from numpy import array
 
-plimege = Image.open('index.jpeg')
+plimege = array(Image.open('index.jpeg'))
+
+print (plimege)
+
